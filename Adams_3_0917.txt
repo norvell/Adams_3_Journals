@@ -1,0 +1,9 @@
+Machine data types
+
+Boolean type
+
+Numeric types
+
+Composite types
+
+String and text types
