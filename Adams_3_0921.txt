@@ -1,0 +1,6 @@
+have you received credit fo all journals?
+No because i didnt know how to submit you journals to git hub.
+why is it important that you the naming convention specified when naming files?
+so you know when you did that journal abd what you did on that day.
+What is the command to copy in Linux? to copy all of a directory to the current directory?
+commit -m "message here"
