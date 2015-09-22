@@ -1,0 +1,2 @@
+Describe the git steps you will do everytime. we will do git add some file, git commit -m message here
+then git push -u origin master.
