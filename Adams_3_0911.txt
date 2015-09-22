@@ -1,0 +1,5 @@
+What is pseudocode - What is it good for?is it good for using code
+More specifically -
+Why will we use it? when we are programming
+
+What about the steps of problem solving? they help you get to the solution of a problem.
