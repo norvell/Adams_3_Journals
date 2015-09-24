@@ -1,0 +1,3 @@
+Why Ballmer called linux a cancer? "Linux is not in the public domain. Linux is a cancer that attaches itself in an 
+intellectual property sense to everything it touches. That's the way that the license works."
+Ballmer was trying to articulate his concern, whether real or imagined, that limited recourse to the GNU GPL requires that all software be made open source.
