@@ -1,0 +1,23 @@
+Paid licencse-software that you have to paid for to use it.
+
+Shareware-Software that is availiable free of charges.
+
+Trialware-Software that can be run for a limited period of time before it expires.
+
+Ad-ware-is when you download anything with ad it will pop up repeatly.
+
+Crippleware-Software distributed with reduced  functionality witha view to attracting payment for a fully functional version.
+
+Freemium-is a pricing strategy by which a product or service is provided free of charge.
+
+FreeWare(vs Free-OpenSource)-“Open source is a development methodology; free software is a social movement.” For the Open Source movement, non-free software is a suboptimal solution. For the Free Software
+ movement, non-free software is a social problem and free software is the solution.
+
+Richard Stallman-is a software freedom activist and computer programmer. He campaigns for software to be distributed in a manner such that its users receive the freedoms to use, study, distribute and modify that software. Software
+ that ensures these freedoms is termed free software. Stallman launched the GNU Project, founded the Free Software Foundation, developed the GNU Compiler Collection and GNU Emacs, and wrote the GNU General Public License.
+
+Lawrence Lessig-is an American academic, lawyer, political activist, and a candidate for President of the United States in the 2016 election. He is the Roy L. Furman Professor of Law at Harvard Law School and the director of
+ the Edmond J. Safra Center for Ethics at Harvard University.[1] As an attorney, he is a member of the Illinois Bar.
+
+Eben Moglen- is a professor of law and legal history at Columbia University, and is the founder, Director-Counsel and Chairman of Software Freedom Law Center, whose client list includes numerous pro bono clients, such as the
+ Free Software Foundation. 
