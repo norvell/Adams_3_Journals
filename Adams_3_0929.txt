@@ -1,0 +1,6 @@
+What is a method
+A organized step to solve a problem
+what are they good for?
+to solve problems
+how can we use methods to find primes?
+go by the steps it tells you in order to find or solve a prime.
