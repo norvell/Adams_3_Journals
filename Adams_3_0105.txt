@@ -1,0 +1,2 @@
+What are code comments? a annotation in the source code of a computer program. they are good when you are using a
+computer program.
