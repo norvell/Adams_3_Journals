@@ -1,0 +1,7 @@
+what are method? A little program
+
+what are classes?it is like a container
+
+what is an instance? an instance is a program only one at a time.
+
+What are class methods? a program that is like a container.
