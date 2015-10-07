@@ -1,0 +1,6 @@
+What is Java Class?
+objects exhibit the properties and behavior defined by its claas.
+What might a Java class be for JavaFX?
+it help it change its behavior.
+What might be a method for class?
+can contain fields and methods to describe the behavior of an object.
