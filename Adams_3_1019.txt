@@ -1,0 +1,13 @@
+    Are you? Why or why not?Yes I am done with my methods
+                               
+    This is a real question -- describe what you did the days we went over art methods.
+ What did you write? type? What were your thoughts?I changed the shapes and the colors.
+
+    Did you notice that art method code was shared in the journals (as proclaimed with very large text)?
+ Why or why not?No I dont know why i didint know that
+
+    Have you examined the sample code on github? Why or why not? yes it was easy to do
+
+    Write a sample method for making a sequence of red squares on the canvas.
+House (color, RED)
+
