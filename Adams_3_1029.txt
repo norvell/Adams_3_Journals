@@ -1,0 +1,8 @@
+
+
+    Is your guessig game a game? Why or why not?
+yes because it asks you what is the number between 1 and 10
+
+    What would make it better?
+to make it loop .
+
