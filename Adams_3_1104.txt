@@ -1,0 +1,8 @@
+What is a mehtod?
+a method is a program that makes art and construct it
+
+2.I used the what is your name method  and i used it to let the game know the persons name
+
+3. it is a system that makes you get a play again and again
+
+4. I dont know I make that guess a number between 1 and 10 
