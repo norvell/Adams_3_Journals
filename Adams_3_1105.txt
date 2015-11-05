@@ -1,0 +1,3 @@
+What are Strings? What are they good for?Strings is a mehtod that allow the program to talk to you
+What are some strings mehtods? the methods like the one in the gueesing game we created.
+How do we identify string methods? But Finding a solution to the problem to solve the method
