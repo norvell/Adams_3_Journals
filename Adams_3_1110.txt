@@ -1,0 +1,3 @@
+1. In my game you have to decide either to juke or truck your defender
+2.I dont know how to track the HP.
+3. I dont know how to trck your items.
