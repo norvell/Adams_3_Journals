@@ -1,0 +1,3 @@
+1. Whether to truck the defender or to juke right or left to avoid the defender.
+
+2.I will track in a complex pattern which would kind of be different everytime.
