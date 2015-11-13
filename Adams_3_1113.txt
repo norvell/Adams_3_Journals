@@ -1,0 +1,2 @@
+1. I will use loops when the player fails and it is game over.
+2.I dont know how i will use methods in my game.
