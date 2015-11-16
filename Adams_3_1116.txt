@@ -1,0 +1,2 @@
+1. I will use the method the while loop.
+2..I will use the true and false values.
