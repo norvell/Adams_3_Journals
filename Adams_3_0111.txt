@@ -1,0 +1,4 @@
+What slick game will you create?
+I will make a basic maze game
+What challenges have you faced / are you facing with your slick game?
+making the map for the maze
