@@ -1,0 +1,4 @@
+Briefly describe what you could have done to successfully complete your game?
+I could have finish creating my map before break.
+Describe your problem solving / trouble shooting process.
+I need help senting the program to github
