@@ -1,0 +1,4 @@
+How do you add an image to a slick game?
+I simply just went to search for a image, download it, then i added the download to the res folder.
+Where is the image drawn? [What code? Be specific.] 
+anywhere i guess
