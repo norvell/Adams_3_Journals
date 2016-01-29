@@ -1,0 +1,7 @@
+What is a class constructor?
+a class constructor is a constructor that creates a class used as templates to create objects.
+What should be included in a class constructor for orbs? Why?
+a code that sent images to the game because you need it to create objects.
+What methods should the orb have? why?
+I dont know Im not really sure about that right now.
+
