@@ -1,0 +1,17 @@
+How do you add an image to a slick game?
+By senting the image to your res and it will pop up somewhere
+Where is the image drawn? [What code? Be specific.]
+class Item {
+	public int x;
+	public int y;
+	public boolean isvisible = true;
+	Image currentImage;
+	Shape hitbox;
+	Image healthpotion = new Image(
+			"res/health_potion.png");
+
+	Item(int a, int b) throws SlickException {
+		this.x = a;
+		this.y = b;
+		this.hitbox = new Rectangle(a, b, 32, 32);// 64 is the width of the item
+		this.currentImage = healthpotion;
