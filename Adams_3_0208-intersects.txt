@@ -1,0 +1,2 @@
+How would one check to see whether weapons damage enemies or objects in Slick?
+By going close to a enemie and using the orb power on them to see if it damages them or not.
