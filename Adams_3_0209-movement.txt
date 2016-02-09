@@ -1,0 +1,2 @@
+How can / will you make the orb move in the direction you are facing?
+By going to the orb class and make a hit button for the player.
