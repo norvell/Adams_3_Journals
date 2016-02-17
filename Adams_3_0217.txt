@@ -1,0 +1,51 @@
+What are arrays used for?
+is a container object that holds a fixed number of values of a single type. 
+What is the code for an int array?
+ private void intArrayExample()
+  {
+    int[] intArray = new int[3];
+    intArray[0] = 1;
+    intArray[1] = 2;
+    intArray[2] = 3;
+    System.out.println("intArray output");
+    for (int i=0; i<intArray.length; i++)
+    {
+      System.out.println(intArray[i]);
+    }
+  }
+What is the code for an String array?
+private void stringArrayExample()
+  {
+    String[] stringArray = new String[3];
+    stringArray[0] = "a";
+    stringArray[1] = "b";
+    stringArray[2] = "c";
+    System.out.println("stringArray output");
+    for (int i=0; i<stringArray.length; i++)
+    {
+      System.out.println(stringArray[i]);
+    }
+  }
+What is the code for an boolean array?
+Boolean[] array = new Boolean[5];
+for(Boolean value : array) {
+    value = false; 
+}
+
+Boolean[] array = new Boolean[5];
+Arrays.fill(array, Boolean.FALSE);
+
+What is the code for an double array?
+ double[] a;
+
+    a = new double[ anyVlaue ];
+
+    for ( i = 0; i < a.length; i++ )
+    {
+       visit (= use) array element a[i]           
+    }
+
+How would you change the first value of the int array to 42?
+by typing 42 in the right place
+Of the String array to "Bob"?
+on the private void type bob in the ().
