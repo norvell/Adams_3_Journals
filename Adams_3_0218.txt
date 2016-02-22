@@ -1,0 +1,23 @@
+Why would it be unrealistic / unproductive  to memorize Slick syntax - what are the skills we were trying to practice?
+because the slick can come in different codes and arrays.
+What is an array?
+A arraylist is a resizeable array that can hold different objects to specify
+
+How do you make an array? Give an example
+ArrayList<String> whatever = new ArrayList();
+whatever.add(“Stuff”);
+.
+What is an ArrayList?
+a list of arrays that is resizable.
+How do you make an arraylist?
+ArrayList<String> whatever = new ArrayList();
+whatever.add(“Stuff”);
+
+In Netbeans, make an arraylist. Use autocompletion with the created arraylist (the '.' and pop-up):
+What are three useful arraylist methods that you identified?
+one that starts up a game
+What is the difference between an array and an arraylist?
+an array an array cannot be resized 
+and a arraylist can
+How could we make a health counter for an avatar?
+by use a image as a health booster to help the health
