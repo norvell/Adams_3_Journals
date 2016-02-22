@@ -1,0 +1,50 @@
+1.What is the difference between Player and player?
+The Player is a class- a class is a subset of instructions within a java program, used for ENCAPSULATION (making the code modular for organization and efficiency) e.g. as a template(recipe) for making objects.
+player is an object made from the Player class.
+
+2. What is a class constructor and how is it used?
+<<inside the Block class i.e. Block java>>
+public Blocked(int x, int y){
+        this.width = x;
+         this.height = y;
+          this.invisible = true;
+}
+Block block = new Block(64, 64);
+3. What does “static” do?
+Static shares that value across the class;
+this would be good for ______,
+and this would be really bad for player status.
+
+4. Why did programs break when switching to player?
+A.Some people  didn’t instantiate a player object
+B.Some programs still referred to the Player class
+C.This would make another player object impossible
+
+5. What does it mean to declare?
+You state what you will be using e.g. reserving a space or period.
+6. How did we declare a player object?
+ Player player;
+
+7. How did we initialize a player object?
+player = new Player();
+
+8. How can we access the player OBJECT from win and lose?
+make a static player object, which can be reference in order classes
+then you would put the name of the game class and the player .i.e.
+ChallengeGame;player.setX(); 
+
+
+9.What does this code do?
+   public Main(String gamename) {
+      super(gamename);
+       this.addState(new Menu(xSize, ySize));
+        this.addState(new WorldOfFunLvl1(xSize, ySize);
+        this.addState(new lose(xSize, ySize);
+}
+We made a specific type of slick game, a “state-based” game.
+this method is adding all of the states so they are ready to be called.
+
+10.what is a “class”?
+a subsection of a java program.
+
+
