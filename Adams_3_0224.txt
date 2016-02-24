@@ -1,0 +1,1 @@
+A class rat is a class that has something to do about rats.
