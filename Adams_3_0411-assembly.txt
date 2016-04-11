@@ -1,0 +1,26 @@
+
+    What is assembly?
+    It is a language program
+
+    What is it good for?
+    Program development is faster
+
+    Fewer lines of code
+
+    Program maintenance is easier
+
+     How is assembly different than Java?
+    Learning the assembly is more difficult than learning Java! 
+    What are differences between high level and low level languages?
+     
+
+    High-level languages should be natural preference for common applications.
+
+  
+    Which type is Java? How do you know, i.e., what characteristics does it have of that language type? 
+    
+
+Programming in the assembly language is a tedious and error-prone process.
+
+    Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+    Assembly language programs contain only the code that is necessary to perform the given task.
