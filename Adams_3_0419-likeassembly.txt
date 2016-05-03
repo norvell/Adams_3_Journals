@@ -1,7 +1,7 @@
 Describe - what similarities do you notice between assembly and Human Resource Machine?
 That they both use all the same shortcut and code like their all the same between the both.
-
+They use commands such as add, sub, jump. jump if zero, jump if negative, copyto, and copyfrom.
 
 Describe - what differences do you notice between assembly and Human Resource Machine?
-That HRM is a game and Assembly is a program also that assembly use letter instead of a blocks to jump
-add, copy to, copy from, sub, and lots of other which makes it look confusing.
+That HRM is a game that uses blocks to name the commands and Assembly is a program also that assembly use letter
+ instead of a blocks to jump add, copy to, copy from, sub, and lots of other which makes it look confusing.
