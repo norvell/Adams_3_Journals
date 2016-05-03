@@ -11,7 +11,7 @@ _start:
        mov    rax, 1                      ; system call 1 is write
        mov    rdi, 1                      ; file handle 1 is write
        mov    rsi, message                ; address of strngs to output
-       mov    rdx, 15                     ; number of bytes
+       mov    rdx, 20                     ; number of bytes
        syscall                            ; invoke operating system to do the write
 
        ; exit(0)
@@ -19,7 +19,7 @@ _start:
        xor   rdi, rdi                     ; exit code 0
        syscall                            ; invoke operating system to exit
 message:
-        db  "Norvell Adams" , 12           ; note the newline at the end
+        db  "Norvell Adams" , 10           ; note the newline at the end
 
 5. I had to solve the numbers in order to show my full name.
 6. Yes ,because it is faster than java and it's more advanced than java.
