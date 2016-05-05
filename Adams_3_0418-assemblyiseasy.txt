@@ -1,6 +1,6 @@
-1. to Help the program run
-2. to find the saved file you were looking for.
-3. Because elf64 is basically the same thing chmod.
+1. Its called 64 because it bigger with operating systems.
+2. 
+3. 
 4. Code Below:
 
 global  _start
