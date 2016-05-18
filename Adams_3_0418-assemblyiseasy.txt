@@ -1,6 +1,12 @@
-1. Its called 64 because it bigger with operating systems.
-2. 
-3. 
+For what computational reason did you type elf64?
+	That is the operating system.
+Why did you use ld?
+	It invokes the linker
+Why did you not have to use chmod to make sample executable?
+	chmod is for permissions.
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+Post the code in your journal
+
 4. Code Below:
 
 global  _start
@@ -21,10 +27,12 @@ _start:
 message:
         db  "Norvell Adams" , 10           ; note the newline at the end
 
-5. I had to solve the numbers in order to show my full name.
-6. Yes ,because it is faster than java and it's more advanced than java.
-7. Low level probably means that it requires less code than a regular java program which helps it run
-smoothly.
-
+What problem did you have to solve to get it to work?
+	You had to recomplie your code and make the byte size a larger number if it exceeded the original 13
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+	No it is not "quick and easy" thought to be low level as in basic, like primative, I thought
+	it would have been easy, but it is low level as in you work more with the computer
+What does 'low level' actually mean with regards to programming languages?
+	It is a lot closer to what the computer reads.
 
 
