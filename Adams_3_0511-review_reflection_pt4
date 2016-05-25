@@ -1,0 +1,20 @@
+Explain in your own words -- what happens with nested for loops?
+    E.g.,
+
+            for (int i = 0; i <= board[0].length - 1; i++) {
+                        for (int j = 0; j <= board[1].length - 1; j++) { ....}
+          
+	nesting for loops go through the array going for the y first (IF it is a 2D array), then it
+	moves through the x
+	it was included in the code you gave us for the original array on 0226 i believe
+	
+	for (int i = 0; i <= map[0].length - 1; i++) {  
+		for (int j = 0; j <= map[1].length - 1; j++) {
+
+	this array goes and counts through the numbers all the way to 50 or depending whar you set it 
+	to. and where it does count it places a int or String or char depending on the arraay
+	So it goes though the 20 and places maybe a 5 or a " ." and if` a char '.' until it reaches
+	the set number, which in this case is 20.
+
+    Status API Training Shop Blog About 
+
