@@ -1,0 +1,80 @@
+Given the class Ogre:
+1. Provide an example class with class constructor
+public class Ogre {
+
+    public int x;
+    public int y;
+    String symbol = " X";
+    int level;
+
+
+    Ogre(int a, int b) {
+
+        this.x = a;
+        this.y = b;
+
+    }
+}
+
+2. Give an example of instantiation of an Ogre object
+	public static Ogre shrek;
+	public static Ogre donkey;
+	public static Ogre Ray;
+3. Provide a setter for positioning	
+	    public int getOgreX() {
+        return x;
+    }
+
+    public int getOgreY() {
+        return y;
+    }	
+4. Provide an example of using an ogre's move method
+	    public static void enemyZ() {
+        if (enemy == true) {
+            if (shrek.x > player.nx) {
+                map[shrek.y][shrek.x] = " .";
+                shrek.x--;
+            }
+	}
+5. Provide an example array of 3 ogres.
+    public static void printArray() {
+
+        map[player.y][player.x] = player.symbol;
+        map[player.ny][player.nx] = player.symbol;
+        map[shrek.y][shrek.x] = shrek.symbol;
+	map[donkey.y][donkey.x] = donkey.symbol;
+	map[colby.y][colby.x] = Ray.symbol;	
+        for (int i = 0; i <= map[0].length - 1; i++) {
+            for (int j = 0; j <= map[1].length - 1; j++) {
+                if (j < map[1].length - 1) {
+                    if (enemyZ[i][j]) {
+                        map[i][j] = shrek.symbol;
+                    }
+                    if (enemyZ[i][j]) {
+                        map[i][j] = donkey.symbol;
+                    }
+                    if (enemyZ[i][j]) {
+                        map[i][j] = Ray.symbol;
+                    }
+                    if (map[i][j] != donkey.symobl
+                            && map[i][j] != skrek.symbol
+                            && map[i][j] != Ray.symbol) {
+                        System.out.print("  ");
+                    } else {
+                        System.out.print(map[i][j]);
+                    }
+                } else {
+                    if (map[i][j] != "  ") {
+                        System.out.println("  ");
+                    } else {
+                        System.out.println(map[i][j]);
+                    }
+                }
+
+            }
+        }
+
+    }
+
+    
+
